@@ -1,1 +1,1 @@
-Sample Git Repository
+Sample Git Repository made during learning git.
