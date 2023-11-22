@@ -1,0 +1,15 @@
+1. Front End
+	a. HTML5
+	b. CSS3
+	c. JS
+	d. Bootstrap
+	e. jQuery / AngularJS
+
+2. Back End
+	a. Java (8 is recommended)
+	b. Spring Boot(2.7.7)
+	c. Spring Data JPA
+	d. Database - MySQL
+
+3. Testing
+	1. Junit Framework
